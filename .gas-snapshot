@@ -1,0 +1,3 @@
+FundMeTest:testGetVersion() (gas: 13644)
+FundMeTest:testMinUSD() (gas: 8355)
+FundMeTest:testOwnerIsSender() (gas: 10590)
